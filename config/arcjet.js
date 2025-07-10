@@ -8,7 +8,11 @@ const aj = arcjet({
     shield({ mode: "LIVE" }),
     detectBot({
       mode: "LIVE",
-      allow: [ "CATEGORY:SEARCH_ENGINE" ],
+      allow: [
+        "CATEGORY:SEARCH_ENGINE",
+        "CATEGORY:MONITOR", // Allow search engines and monitoring tools
+        "35.230.74.0/24", // Example IP range to allow
+      ],
     }),
     tokenBucket({
       mode: "LIVE",
