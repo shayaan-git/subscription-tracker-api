@@ -34,7 +34,7 @@ app.use(errorMiddleware);
 
 app.get('/', (req, res) => {
   res.send(`Welcome to the Subscription Tracker API!
-    Prefer to use 'HTTPie' for quick command-line API interactions during production.`);
+  <br> Prefer to use 'HTTPie' for quick command-line API interactions during production.`);
 });
 
 app.listen(PORT, async () => {
