@@ -39,12 +39,12 @@ Authenticate users using JWTs, connect a database, create models and schemas, an
 
 and many more, including code architecture and reusability
 
-## <a name="LIVE-DEMO">🤸 LIVE DEMO</a>
+## <a name="LIVE-DEMO">💻 LIVE DEMO</a>
 
 https://subscription-tracker-api-m2wh.onrender.com/
 
 
-# OR 
+# OR ⤵
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -116,14 +116,15 @@ Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP 
 
 <details>
 <summary><code>Dummy JSON Data</code></summary>
+Note: Set startDate in the past.
 
 ```json
 {
-  "name": "Javascript Mastery Elite Membership",
-  "price": 139.00,
-  "currency": "USD",
+  "name": "Cocomelon TV Membership",
+  "price": 129.00,
+  "currency": "INR",
   "frequency": "monthly",
-  "category": "Entertainment",
+  "category": "entertainment",
   "startDate": "2025-01-20T00:00:00.000Z",
   "paymentMethod": "Credit Card"
 }
