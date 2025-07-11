@@ -116,7 +116,7 @@ Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP 
 
 <details>
 <summary><code>Dummy JSON Data</code></summary>
-Note: Set startDate in the past.
+↪ **Note**: Set 'startDate' in the past.
 
 ```json
 {
