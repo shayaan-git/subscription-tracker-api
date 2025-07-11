@@ -33,7 +33,8 @@ app.use('/api/v1/workflows', workflowRouter);
 app.use(errorMiddleware);
 
 app.get('/', (req, res) => {
-  res.send('Welcome to the Subscription Tracker API!');
+  res.send(`Welcome to the Subscription Tracker API!
+    Prefer to use 'HTTPie' for quick command-line API interactions during production.`);
 });
 
 app.listen(PORT, async () => {

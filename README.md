@@ -39,7 +39,7 @@ Authenticate users using JWTs, connect a database, create models and schemas, an
 
 and many more, including code architecture and reusability
 
-## <a name="LIVE-DEMO">💻 LIVE DEMO</a>
+## <a name="LIVE-DEMO">💻 LIVE DEMO (Recommended)</a>
 
 https://subscription-tracker-api-m2wh.onrender.com/
 
