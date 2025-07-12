@@ -23,7 +23,7 @@ Authenticate users using JWTs, connect a database, create models and schemas, an
 - Express.js
 - MongoDB
 
-## <a name="features">🔋 Features</a>
+## <a name="features">💾 Features</a>
 
 ↪ **Advanced Rate Limiting and Bot Protection**: with Arcjet that helps you secure the whole app.
 
@@ -112,7 +112,7 @@ npm run dev
 
 Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP client to test the project.
 
-## <a name="subscription-model-sample">🕸️ Subscription Model Sample</a>
+## <a name="subscription-model-sample">📑 Subscription Model Sample</a>
 
 <details>
 <summary><code>Dummy JSON Data</code></summary>
