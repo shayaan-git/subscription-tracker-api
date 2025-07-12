@@ -5,10 +5,10 @@
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
+3. 💾 [Features](#features)
 4. 💻 [LIVE DEMO](#live-demo)
 5. 🤸 [Quick Start](#quick-start)
-6. 🕸️ [subscription Model Sample](#subscription-model-sample)
+6. 📑 [subscription Model Sample](#subscription-model-sample)
 7. 🔗 [Assets](#links)
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -136,5 +136,4 @@ Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP 
 
 - **Arcjet** - [https://launch.arcjet.com/4g2R2e4](https://launch.arcjet.com/4g2R2e4)  
 - **Upstash** - [https://bit.ly/42ealiN](https://bit.ly/42ealiN)  
-- **Hostinger** - [https://hostinger.com/mastery10](https://hostinger.com/mastery10)  
-- **WebStorm** - [https://jb.gg/GetWebStormFree](https://jb.gg/GetWebStormFree)  
+- **WebStorm** - [https://jb.gg/GetWebStormFree](https://jb.gg/GetWebStormFree)
