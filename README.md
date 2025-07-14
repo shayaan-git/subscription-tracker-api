@@ -1,5 +1,5 @@
 
-<h3 align="center">A Subscription Management System API</h3>
+# <h3 align="center">A Subscription Management System API</h3>
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -137,3 +137,4 @@ Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP 
 - **Arcjet** - [https://launch.arcjet.com/4g2R2e4](https://launch.arcjet.com/4g2R2e4)  
 - **Upstash** - [https://bit.ly/42ealiN](https://bit.ly/42ealiN)  
 - **WebStorm** - [https://jb.gg/GetWebStormFree](https://jb.gg/GetWebStormFree)
+- Credits to [Adrian Hajdin - JS Mastery](https://www.youtube.com/c/JavaScriptMastery)
