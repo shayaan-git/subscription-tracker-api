@@ -6,7 +6,7 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 💾 [Features](#features)
-4. 💻 [LIVE DEMO](#live-demo)
+4. 💻 [LIVE DEMO (Recommended)](#live-demo)
 5. 🤸 [Quick Start](#quick-start)
 6. 📑 [subscription Model Sample](#subscription-model-sample)
 7. 🔗 [Assets](#links)
@@ -41,7 +41,7 @@ and many more, including code architecture and reusability
 
 ## <a name="LIVE-DEMO">💻 LIVE DEMO (Recommended)</a>
 
-https://subscription-tracker-api-m2wh.onrender.com/
+📌 [Link](https://subscription-tracker-api-m2wh.onrender.com/)
 
 
 # OR ⤵
@@ -134,7 +134,7 @@ Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP 
 
 ## <a name="links">🔗 Links</a>
 
-- **Arcjet** - [https://launch.arcjet.com/4g2R2e4](https://launch.arcjet.com/4g2R2e4)  
-- **Upstash** - [https://bit.ly/42ealiN](https://bit.ly/42ealiN)  
+- **Arcjet** - [https://launch.arcjet.com](https://launch.arcjet.com/4g2R2e4)  
+- **Upstash** - [https://Upstash.com](https://bit.ly/42ealiN)  
 - **WebStorm** - [https://jb.gg/GetWebStormFree](https://jb.gg/GetWebStormFree)
 - Credits to [Adrian Hajdin - JS Mastery](https://www.youtube.com/c/JavaScriptMastery)
