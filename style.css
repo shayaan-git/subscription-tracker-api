@@ -1,0 +1,74 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: #333;
+    min-height: 100vh;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2.5em;
+}
+.status {
+    background: #d4edda;
+    border: 1px solid #c3e6cb;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 20px 0;
+    text-align: center;
+    color: #155724;
+    font-weight: bold;
+}
+.endpoints {
+    background: #f8f9fa;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 0;
+}
+.endpoint {
+    margin: 10px 0;
+    padding: 10px;
+    background: white;
+    border-left: 4px solid #667eea;
+    border-radius: 3px;
+}
+.method {
+    font-weight: bold;
+    color: #667eea;
+    margin-right: 10px;
+}
+.description {
+    color: #666;
+    font-size: 0.9em;
+    margin-top: 5px;
+}
+.note {
+    background: #fff3cd;
+    border: 1px solid #ffeaa7;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 20px 0;
+    color: #856404;
+}
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #666;
+    font-size: 0.9em;
+}
+.footer-bottom {
+    text-align: left;    /* Left align only the bottom content */
+    margin-top: 15px;
+}
