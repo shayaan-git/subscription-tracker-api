@@ -31,6 +31,7 @@ app.use('/api/v1/workflows', workflowRouter);
 
 // Error handling middleware should be last
 app.use(errorMiddleware);
+app.use(express.static('.'));
 
 app.get('/', (req, res) => {
   res.send(`
