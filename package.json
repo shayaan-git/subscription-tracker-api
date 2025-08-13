@@ -1,5 +1,5 @@
 {
-  "name": "subdub",
+  "name": "subnix",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -11,7 +11,6 @@
   "engines": {
     "node": "22.14.0"
   },
-  
   "dependencies": {
     "@arcjet/inspect": "^1.0.0-beta.8",
     "@arcjet/node": "^1.0.0-beta.8",
