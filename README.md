@@ -3,17 +3,17 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 💻 [LIVE DEMO](#live-demo)
-2. 🤖 [Introduction](#introduction)
-3. ⚙️ [Tech Stack](#tech-stack)
-4. 💾 [Features](#features)
-5. 🤸 [Quick Start](#quick-start)
-6. 📑 [subscription Model Sample](#subscription-model-sample)
+1. [LIVE DEMO](#live-demo)
+2. [Introduction](#introduction)
+3. [Tech Stack](#tech-stack)
+4. [Features](#features)
+5. [Quick Start](#quick-start)
+6. [subscription Model Sample](#subscription-model-sample)
 
 ## <a name="live-demo"> LIVE DEMO </a>
 📌 [Live Link](https://subscription-tracker-api-m2wh.onrender.com/)
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">Introduction</a>
 
 A **production-ready Subscription Management System API** that handles **real users, real money, and real business logic**. Authenticate users using JWTs, connect a database, create models and schemas, and integrate it with ORMs. Structure the architecture of your API to ensure scalability and seamless communication with the frontend.  
 
@@ -50,7 +50,7 @@ Make sure you have the following installed on your machine:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [npm](https://www.npmjs.com/)
 
 **Cloning the Repository**
 
@@ -114,7 +114,7 @@ Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP 
 
 ```json
 {
-  "name": "SubNix Membership",
+  "name": "Subnix Service",
   "price": 789.00,
   "currency": "INR",
   "frequency": "monthly",
