@@ -17,11 +17,12 @@ body {
   padding: 20px;
   border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 35px;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2)
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
 }
 h1 {
   color: #f7fafd;
   text-align: center;
+  margin-top: 20px;
   margin-bottom: 10px;
   font-size: 3.5em;
   font-weight: 700;
@@ -55,13 +56,16 @@ h3 {
   padding: 20px;
   margin: 20px 0;
 }
+
 .endpoint {
   margin: 10px 0;
   padding: 15px;
   background: #ffffff;
   border-left: 4px solid #5ada8b;
-  border-radius: 3px;
+  border-radius: 20px;
+  position: relative;
 }
+
 .method {
   font-weight: bold;
   color: #2a7cc0;
@@ -73,28 +77,28 @@ h3 {
   margin-top: 5px;
 }
 .note {
-  background: #fff3cd;
+  background: #111111;
   border: 1px solid #ffeaa7;
   border-radius: 25px;
   padding-right: 15px;
   padding-left: 2px;
   margin: 20px 0;
-  color: #7a6a2d;
+  color: #ffffff;
   white-space: normal;
   overflow-wrap: break-word;
   /* word-break: break-all; */
   max-width: 100%;
 }
 .note a {
-  color: #24eabb;
+  color: #409cff;
   text-decoration: none;
   transition: all 0.3s ease;
 }
 .note a:hover {
-  color: #ffffff;
-  text-shadow: 0 0 10px #006850;
+  color: #90f6ff;
+  text-shadow: 0 0 10px #ffffff;
 }
-
+/* Footer styles */
 .footer {
   text-align: center;
   margin-top: 25px;
@@ -115,6 +119,41 @@ h3 {
 .footer-bottom a:hover {
   color: #ffffff;
   text-shadow: 0 0 10px #64ffda;
+}
+
+/* Copy button styles */
+
+.copy-button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.copy-button:hover {
+  background: #0056b3;
+}
+
+.copy-button:active {
+  background: #28a745;
+}
+
+.feedback {
+  color: #28a745;
+  font-size: 12px;
+  margin-left: 10px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.feedback.show {
+  opacity: 1;
 }
 
 /* Responsive Styles */
